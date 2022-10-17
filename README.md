@@ -53,3 +53,7 @@ Step3: npm run
 ## add new 
 ![App Screenshot](https://github.com/siddharthraj09/simplyfi/blob/master/screenshots/img7.JPG)
 
+## Database Data
+![App Screenshot](https://github.com/siddharthraj09/simplyfi/blob/master/screenshots/img8.JPG)
+
+
