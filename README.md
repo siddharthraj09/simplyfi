@@ -33,8 +33,7 @@ Step3: npm run
 
 ## Folder Structure
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![App Screenshot](./screenshots/image1.JPG)
 
 ## Upload Csv
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
