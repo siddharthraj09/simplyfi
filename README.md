@@ -33,18 +33,23 @@ Step3: npm run
 
 ## Folder Structure
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![App Screenshot](https://github.com/siddharthraj09/simplyfi/blob/master/screenshots/img1.JPG)
 
 ## Upload Csv
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/siddharthraj09/simplyfi/blob/master/screenshots/img2.JPG)
+
 ## Get all books
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/siddharthraj09/simplyfi/blob/master/screenshots/img3.JPG)
+
 ## Get books by isbn
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/siddharthraj09/simplyfi/blob/master/screenshots/img4.JPG)
+
 ## get books by author email
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/siddharthraj09/simplyfi/blob/master/screenshots/img5.JPG)
+
 ## get books by sort in ascending
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/siddharthraj09/simplyfi/blob/master/screenshots/img6.JPG)
+
 ## add new 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/siddharthraj09/simplyfi/blob/master/screenshots/img7.JPG)
+
