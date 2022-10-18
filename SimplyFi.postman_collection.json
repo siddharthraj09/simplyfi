@@ -92,11 +92,23 @@
 		},
 		{
 			"name": "getBookByEmail",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
 			"request": {
 				"method": "GET",
 				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email_body\":\"vp@abc.co\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
 				"url": {
-					"raw": "http://localhost:3000/api/getBookByIsbn/754c4762-4ce2-4761-b335-b2a8856dbc67",
+					"raw": "http://localhost:3000/api/getBookByEmail",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -104,8 +116,7 @@
 					"port": "3000",
 					"path": [
 						"api",
-						"getBookByIsbn",
-						"754c4762-4ce2-4761-b335-b2a8856dbc67"
+						"getBookByEmail"
 					]
 				}
 			},
